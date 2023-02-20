@@ -4,5 +4,5 @@ metadata:
   name: "Example"
 spec:
   type: service
-  owner: user:guest
+  owner: Manideep
   lifecycle: experimental
